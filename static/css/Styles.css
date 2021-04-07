@@ -1,0 +1,27 @@
+.first{
+color:red;
+}
+#navbaritem >li a{
+color:white;
+font-weight:bold;
+}
+#main-navbar{
+height:80px;
+}
+#main-navbar a{
+color:white;
+font-weight:bold;
+}
+#logo-image {
+height:70px;
+width:100px;
+}
+
+#main-container{
+ background-color:#f2f4f7;
+          height:auto;
+
+}
+.container .col-sm h2{
+text-align:center;
+  }
